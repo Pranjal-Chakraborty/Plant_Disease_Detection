@@ -4,4 +4,4 @@
 - *Arya Chatterjee*
 - *Pranjal Chakraborty*
 - *Yash Thakur*
-- *Jaya Singh Mahapatra*
+- *Jaya Sinha Mahapatra*
