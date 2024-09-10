@@ -3,5 +3,5 @@
 - *Samrat Ghosh*
 - *Arya Chatterjee*
 - *Pranjal Chakraborty*
-- *Yash Thakur *
-- *Jaya Singh Mahapatra *
+- *Yash Thakur*
+- *Jaya Singh Mahapatra*
