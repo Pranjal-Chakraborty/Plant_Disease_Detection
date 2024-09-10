@@ -1,4 +1,4 @@
-# Contrbutors
+# Contributors
 - *Devasmita Kundu*
 - *Samrat Ghosh*
 - *Arya Chatterjee*
